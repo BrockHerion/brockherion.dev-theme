@@ -3,6 +3,11 @@
   "displayName": "brockherion.dev",
   "description": "Color theme based on my website",
   "version": "0.0.1",
+	"publisher": "brockheriondev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BrockHerion/brockherion.dev-theme.git"
+	},
   "engines": {
     "vscode": "^1.73.0"
   },
